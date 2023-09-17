@@ -1,0 +1,3 @@
+[05-Apr-2021 13:49:32 Africa/Cairo] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/libraries/mail.php on line 4
+[05-Apr-2021 13:49:32 Africa/Cairo] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/libraries/mail.php on line 4
+[05-Apr-2021 13:49:32 Africa/Cairo] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/secuomfs/public_html/includes/libraries/mail.php on line 4

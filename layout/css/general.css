@@ -1,0 +1,115 @@
+/*start global*/
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    font-family: Arial, Tahoma;
+    font-size : 20px;
+}
+.container
+{
+    max-width: 1200px;
+    margin: auto;
+    overflow:hidden;
+}
+.fixed
+{
+    clear: both;
+}
+/*end global*/
+/*start header*/
+header
+{
+    background-color: #333;
+    color: #FFF;
+    font-size : 18px;
+    padding : 0px 10px;
+    direction: ltr;
+}
+header h1
+{   
+    display: inline;
+    float: left;
+}
+header h1 span
+{
+    color: #00ac5c;
+}
+header div#userinformation
+{
+    display: inline;
+    float: right;
+    margin: auto;
+    padding-top: 25px;
+}
+header div#userinformation a:first-child
+{
+    color : #FFF;
+}
+header div#userinformation a:last-child
+{
+    color: #F00;
+    position: relative;
+    bottom: 7px;
+    padding-left: 7px;
+}
+nav
+{
+    background-color: #E2E2EC;
+    padding: 10px;
+}
+nav ul
+{
+    display: inline-block;
+}
+nav ul li
+{
+    display:inline;
+}
+nav ul li:after
+{
+    content: " |";
+}
+nav ul li:last-child:after
+{
+    content: "";
+}
+nav ul li a
+{
+    color: #000;
+    text-decoration: none;
+}
+nav ul li a.activenav
+{
+    color: red;
+    font-weight: bolder;
+}
+nav ul li a:hover
+{
+    text-decoration: underline;
+    color: #00F;
+}
+nav form.lang
+{
+    display: inline;
+}
+nav form.lang input
+{   
+    background-color: rgb(244 244 247 / 0%);
+    border: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+/*end header*/
+/*start footer*/
+footer
+{
+    background-color:#333;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+}
+/*end footer*/

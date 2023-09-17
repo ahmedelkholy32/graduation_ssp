@@ -1,0 +1,19 @@
+/* start form 
+form.balanceform
+{
+    width: 700px;
+    margin: 100px auto;
+    border: 1px solid #00F;
+    padding: 40px;
+    border-radius: 30px;
+    background-color: #EEE;
+}
+form.balanceform div
+{
+    width: 100%;
+}
+form.balanceform div input
+{
+    width: 96.5%;
+}
+ end form */

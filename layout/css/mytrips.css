@@ -1,0 +1,60 @@
+/* start form*/
+form.all, form.coming
+{
+    text-align: center;
+    margin: 20px auto;
+}
+form.all input, form.coming input
+{
+    width: 60%;
+    padding: 20px;
+    background-color: #00F;
+    color: #FFF;
+    border-radius: 30px;
+}
+/* end form */
+/* start paragraph */
+p.message
+{
+    text-align: center;
+    font-weight: bolder;
+    color: #00F;
+}
+p.message span
+{
+    color: #00ac5c;
+}
+/* end paragraph */
+/* start table */
+table
+{
+    margin : 20px auto;
+    text-align: center;
+    width: 100%;
+    border: 2px solid #00F;
+    background-color: #EEE;
+    color: #00F
+}
+table caption
+{
+    color: #F00;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+th, td
+{
+    padding: 10px;
+}
+th
+{
+    background-color: #00F;
+    color: #FFF;
+}
+table form.cancelStatus input[type="submit"]
+{
+    background-color: #F00;
+    width: 90%;
+    font-weight: bold;
+    border-radius: 5px;
+}
+/* end table */

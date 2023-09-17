@@ -1,0 +1,68 @@
+/* start form*/
+form.inquiryform
+{
+    width: 700px;
+    margin: 100px auto;
+    text-align: center;
+    border: 1px solid #00F;
+    padding: 40px;
+    border-radius: 30px;
+    background-color: #EEE;
+}
+form.inquiryform select, form.inquiryform input
+{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #00F;
+    color: #FFF;
+    background-color: #00F;
+    border-radius: 20px;
+}
+form.inquiryform input[type="datetime-local"]
+{
+    width: 96%;
+    color: #00F;
+    background-color: #FFF;
+}
+form.inquiryform label
+{
+    color: #00F;
+    font-weight: bolder;
+}    
+/* end form */
+/* start table */
+table
+{
+    margin : 20px auto;
+    text-align: center;
+    width: 90%;
+    border: 2px solid #00F;
+    background-color: #EEE;
+    color: #00F
+}
+table caption
+{
+    color: #F00;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+th, td
+{
+    padding: 10px;
+}
+th
+{
+    background-color: #00F;
+    color: #FFF;
+}
+.zero
+{
+    color: gray;
+}
+.zero:last-child
+{
+    color: red;
+}
+/* end table */

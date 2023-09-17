@@ -1,0 +1,246 @@
+[11-Jun-2021 01:31:27 Africa/Cairo] PHP Warning:  require(includes/libraries/mailer/autoload.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:31:27 Africa/Cairo] PHP Warning:  require(includes/libraries/mailer/autoload.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:31:27 Africa/Cairo] PHP Fatal error:  require(): Failed opening required 'includes/libraries/mailer/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:32:17 Africa/Cairo] PHP Warning:  require(includes/libraries/mailer/autoload.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:32:17 Africa/Cairo] PHP Warning:  require(includes/libraries/mailer/autoload.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:32:17 Africa/Cairo] PHP Fatal error:  require(): Failed opening required 'includes/libraries/mailer/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:32:20 Africa/Cairo] PHP Warning:  require(includes/libraries/mailer/autoload.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:32:20 Africa/Cairo] PHP Warning:  require(includes/libraries/mailer/autoload.php): failed to open stream: No such file or directory in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 01:32:20 Africa/Cairo] PHP Fatal error:  require(): Failed opening required 'includes/libraries/mailer/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/secuomfs/public_html/includes/functions/mailserver.inc on line 8
+[11-Jun-2021 03:45:23 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:45:23 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:45:45 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:45:45 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:46:19 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:46:19 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:58:23 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 03:58:23 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:01:51 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:01:51 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:02:00 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:02:00 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:03:00 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:03:00 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:03:46 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:03:46 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:03:55 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:03:55 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 90
+[11-Jun-2021 04:05:54 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 40
+[11-Jun-2021 04:05:54 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 40
+[11-Jun-2021 04:06:44 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/index.php on line 40
+[11-Jun-2021 04:06:44 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/index.php on line 40
+[11-Jun-2021 22:28:00 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 24
+[11-Jun-2021 22:28:00 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 24
+[11-Jun-2021 22:29:23 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 24
+[11-Jun-2021 22:29:23 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 24
+[11-Jun-2021 22:29:49 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 24
+[11-Jun-2021 22:29:49 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 24
+[11-Jun-2021 22:32:16 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:16 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:18 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:18 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:19 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:19 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:20 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:20 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:41 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:41 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:43 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:43 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:45 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:45 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:45 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:45 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:53 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:32:53 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:35:56 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:35:56 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:02 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:02 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:03 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:03 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:03 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:03 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:03 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:36:03 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:30 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:30 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:31 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:31 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:32 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:32 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:32 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:32 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:33 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:33 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:33 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:33 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:33 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:33 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:34 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:34 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:34 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:34 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:34 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:34 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:35 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:35 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:48 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:37:48 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:38:34 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:38:34 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:38:37 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:38:37 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:38:59 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 28
+[11-Jun-2021 22:38:59 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 28
+[11-Jun-2021 22:39:57 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:39:57 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:39:59 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:39:59 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:40:51 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:40:51 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:41:12 Africa/Cairo] PHP Notice:  Undefined variable: db in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 22:41:12 Africa/Cairo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/secuomfs/public_html/ai/demo/fopen.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/secuomfs/public_html/ai/demo/fopen.php on line 27
+[11-Jun-2021 23:19:03 Africa/Cairo] PHP Notice:  Undefined index: fopen in /home/secuomfs/public_html/ai/demo/index.php on line 14
+[11-Jun-2021 23:21:57 Africa/Cairo] PHP Notice:  Undefined index: fopen in /home/secuomfs/public_html/ai/demo/index.php on line 14

@@ -1,0 +1,38 @@
+/* start form */
+form.contactusform
+{
+    width: 700px;
+    margin: 100px auto;
+    border: 1px solid #00F;
+    padding: 40px;
+    border-radius: 30px;
+    background-color: #EEE;
+}
+form.contactusform input, form.contactusform textarea
+{
+    display: block;
+    width: 96.5%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #00F;
+    color: #00F;
+    background-color: #FFF;
+}
+form.contactusform input[type="submit"]
+{
+    width: 100%;
+    background-color: #00F;
+    color: #FFF;
+    border-radius: 20px;
+}
+form.contactusform p
+{
+    font-weight: bolder;
+    direction: ltr;
+    margin-bottom: 10px;
+}
+form.contactusform p i
+{
+    color: #00F;
+}
+/* end form*/

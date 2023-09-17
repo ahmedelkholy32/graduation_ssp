@@ -1,0 +1,17 @@
+# to remove extension of files
+ReWriteEngine On
+ReWriteCond %{REQUEST_FILENAME} !-f
+ReWriteCond %{REQUEST_FILENAME} !-d
+ReWriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# prevent directory listing
+OPTIONS -INDEXES
+
+# control in error message
+ErrorDocument 403 /errorcontrol/403.html
+ErrorDocument 404 /errorcontrol/404.html
+
+# who can see site
+#Order deny,allow
+#deny from all
+#allow from 102.46.252.155
